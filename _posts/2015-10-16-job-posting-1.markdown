@@ -15,6 +15,10 @@ permalink: "/job-posting/frontend-developer/"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rQUoDxsZ5Tk" frameborder="0" allowfullscreen></iframe>
 
+<p style="margin: 15px 0;"></p>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/iPufHQqBo7CwuZ" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%; display: block; margin: 0 auto;" allowfullscreen> </iframe> <div style="margin-bottom:5px; text-align: center;"> <strong> <a href="//www.slideshare.net/SungpilNam/ab180" title="사업소개서 Ab180(공개버전)" target="_blank">사업소개서 Ab180(공개버전)</a> </strong> from <strong><a href="//www.slideshare.net/SungpilNam" target="_blank">Sungpil Nam</a></strong> </div>
+
 <p>에어브릿지는 앱 속 특정 페이지로 바로 들어갈 수 있는 링크와 버튼을 만들어주는 서비스입니다. 이 링크와 버튼을 통해 앱이 설치된 사용자들은 단 한번의 클릭으로 앱의 특정 페이지로 들어갈 수 있으며, 앱이 설치되지 않은 사용자들은 설치 후 앱 구동 시 바로 목표 페이지로 이동할 수 있습니다. 이러한 에어브릿지 서비스를 통해 앱사들은 자동으로 미리보기 페이지를 생성하여 자사의 모바일 앱 콘텐츠를 보다 쉽게 검색엔진에 노출시킬 수 있습니다.</p>
 
 <h2 class="section-heading">ab180의 팀과 기술</h2>
