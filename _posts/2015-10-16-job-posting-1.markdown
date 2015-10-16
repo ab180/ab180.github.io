@@ -22,7 +22,7 @@ header-img: "img/post-bg-05.jpg"
 
 <a href="{{ site.baseurl }}/team/" target="_blank" type="button" class="btn btn-default">팀 소개 보러가기</a>
 
-<a href="http://stackshare.io/ab180" target="_blank" type="button" class="btn btn-default">기술 스텍 보러가기</a>
+<a href="http://stackshare.io/ab180" target="_blank" type="button" class="btn btn-default">기술 스택 보러가기</a>
 
 <h2 class="section-heading">우리의 약속</h2>
 
@@ -33,22 +33,21 @@ header-img: "img/post-bg-05.jpg"
 <ul>
     <li>개인 혹은 협업 프로젝트에서 HTML, CSS로 퍼블리싱을 한 경험이 있어야 합니다. (필수)</li>
     <li>JavaScript, jQuery에 대한 기초적인 지식이 있어야 합니다. (필수)</li>
-    <li>영어 직무능력 및 ReactJS, AngularJS의 사용 경험은 '매우 큰' 우대사항입니다. (우대)</li>
-    <li>스크럼 프로세스에 대한 경험은 보통 우대사항입니다. (우대)</li>
-    <li>이외에도 서버, 데이터베이스 등 소프트웨어 기술자로서 갖춰야할 다양한 분야의 지식들도 우대사항입니다. (우대)</li>
+    <li>영어 직무능력 및 ReactJS, AngularJS의 사용 경험을 우대합니다. (우대)</li>
+    <li>Git을 이용한 협업 프로세스'와 '스크럼 방법론'을 우대합니다. (우대)</li>
+    <li>이외에도 서버, 데이터베이스 등 소프트웨어 기술자로서 갖춰야할 다양한 분야의 지식들도 환영합니다. (우대)</li>
 </ul>
 
 <h2 class="section-heading">채용 프로세스</h2>
 
 <ul>
     <li>지원서 작성 - 하단 참조</li>
-    <li>팀원 그룹 인터뷰 - 지원서 접수 후 개별 통보 예정 | 기술, 협업 관련 구술 인터뷰 (예전 프로젝트 역할 및 코드 설명 위주)</li>
-    <li>최종 인터뷰 - 인터뷰 내용 미정</li>
+    <li>간단한 그룹 인터뷰 - 지원서 접수 후 개별 통보 예정</li>
 </ul>
 
 <a href="https://docs.google.com/forms/d/1XE7ggfys2JyMO2waf_jxDV0voOKJgHL57nxw7Kl2IrI/viewform?usp=send_form" target="_blank" type="button" class="btn btn-default">지원서 작성하기</a>
 
-<p>문의 연락처: hr@udl.io</p>
+<p>문의 연락처: hr@udl.io | 어떤 문의의 말씀이라도 편히 보내주세요. ^^</p>
 
 <h2 class="section-heading">추천의 말들</h2>
 
