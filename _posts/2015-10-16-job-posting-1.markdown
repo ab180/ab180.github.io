@@ -50,7 +50,3 @@ permalink: "/job-posting/frontend-developer/"
 <a href="https://docs.google.com/forms/d/1XE7ggfys2JyMO2waf_jxDV0voOKJgHL57nxw7Kl2IrI/viewform?usp=send_form" target="_blank" type="button" class="btn btn-default">지원서 작성하기</a>
 
 <p>문의 연락처: hr@udl.io | 어떤 문의의 말씀이라도 편히 보내주세요. ^^</p>
-
-<h2 class="section-heading">추천의 말들</h2>
-
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
