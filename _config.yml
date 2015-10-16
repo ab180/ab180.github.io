@@ -1,8 +1,10 @@
 # Site settings
 title: ab180
-header-img: img/home-bg.jpg
+logo: "img/img_ab180_transparent_white.png"
+footer-img: "img/img_ab180_footer_777.png"
+header-img: img/home-bg.png
 email: dl_all@udl.io
-description: "Our mission is to collect IN-APP CONTENTS and make it universally accessible and useful."
+description: "ab180의 회사 공식 홈페이지"
 baseurl: ""
 url: "ab180.github.io"
 twitter_username:

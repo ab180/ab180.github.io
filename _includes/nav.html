@@ -9,7 +9,11 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
+            {% if site.logo %}
+            <a href="{{ site.baseurl }}/"><img style="height: 40px; margin: 10px 0; cursor: pointer;" src="{{ site.baseurl}}/{{ site.logo }}" alt="logo_ab180"/></a>
+            {% else %}
             <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+            {% endif %}
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->

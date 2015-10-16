@@ -8,7 +8,11 @@ layout: default
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="site-heading">
-                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                    {% if page.logo %}
+                    <img src="{{ site.baseurl }}/{{ page.logo }}" class="img-responsive" style="height: 170px; display: block; margin: 0 auto;" alt="logo_ab180"/>
+                    {% else %}
+                    <h1>{{ page.title }}</h1>
+                    {% endif %}
                     <hr class="small">
                     <span class="subheading">{{ page.description }}</span>
                 </div>
