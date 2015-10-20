@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      "ab180의 모바일 앱사용 파일럿 프로그램 참가사를 모집합니다."
+date:       2015-10-20 12:00:00
+author:     "ab180"
+header-img: "img/post-sample-image.jpg"
+permalink: "/marketing/pilot-program/"
+published: false
+categories:
+- announcement
+---
