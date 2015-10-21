@@ -102,7 +102,7 @@ categories:
 <div class="row">
     <div class="col-sm-4">
         <p class="text-muted text-center">
-            <img src="{{ site.baseurl }}/img/team/wooseok.png" class="img-circle img-responsive"/>
+            <img src="{{ site.baseurl }}/img/team/wooseok.png" class="img-circle img-responsive" style="margin: 0 auto;"/>
             서우석(Steve Seo)
             <br/>부사장/CTO, 요기요
         </p>
