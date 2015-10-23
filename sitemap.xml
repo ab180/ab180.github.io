@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+        <loc>http://ab180.co/</loc>
+        <image:image>
+            <image:loc>http://ab180.co/img/img_ab180_negative.png</image:loc>
+            <image:caption>ab180 logo image</image:caption>
+        </image:image>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://ab180.co/team/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://ab180.co/history/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://ab180.co/contact/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://ab180.co/job-posting/frontend-developer/</loc>
+        <video:video>
+            <video:content_loc>
+                https://www.youtube.com/embed/rQUoDxsZ5Tk
+            </video:content_loc>
+            <video:player_loc allow_embed="yes" autoplay="ap=1">
+                https://www.youtube.com/esssmbed/rQUoDxsZ5Tk
+            </video:player_loc>
+            <video:thumbnail_loc>
+                http://ab180.co/img/img_ab180_negative.pngss
+            </video:thumbnail_loc>
+            <video:title>AirBridge 데모영상</video:title>
+            <video:description>
+                ab180의 대표서비스 AirBridge의 데모영상입니다.
+            </video:description>
+        </video:video>
+    </url>
+</urlset>
