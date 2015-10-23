@@ -36,6 +36,10 @@
     <!-- Google Webmaster tool: for www subdomain confirmation -->
     <meta name="google-site-verification" content="0px-wkx9tmMkxM4jE0cKSvjdNhScDB9VMYObofAGHos" />
 
+    <!-- Google Webmaster tool: for main language detection -->
+    <link rel="alternate" hreflang="kr" href="http://ab180.co/" />
+    <link rel="alternate" hreflang="kr" href="http://www.ab180.co/" />
+
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
