@@ -6,9 +6,9 @@ header-img: img/home-bg.png
 email: dl_all@udl.io
 description: "ab180의 회사 공식 홈페이지"
 baseurl: ""
-url: "ab180.github.io"
+url: "teamab180.github.io/ab180-legacy.github.io/"
 twitter_username:
-github_username:  ab180
+github_username: teamab180
 facebook_username:
 
 # Build settings
